@@ -3,7 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^3.6.2",
+    "@material-ui/styles": "^3.0.0-alpha.3",
+    "axios": "^0.18.0",
+    "chart.js": "^2.7.3",
     "react": "^16.6.3",
+    "react-chartjs-2": "^2.7.4",
     "react-dom": "^16.6.3",
     "react-scripts": "2.1.1"
   },
